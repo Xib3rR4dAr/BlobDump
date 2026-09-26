@@ -1,4 +1,4 @@
-# BlobDump
+# BlobDump - Azure Blob Storage Downloader
 
 BlobDump is a lightweight Python CLI tool that enumerates publicly listable Azure Blob Storage containers and downloads their contents concurrently. It requires no Azure credentials when anonymous container listing and blob access are enabled.
 
