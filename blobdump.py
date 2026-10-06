@@ -7,6 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import quote
 import xml.etree.ElementTree as ET
 
+print ("\nAuthor: Muhammad Zeeshan (Xib3rR4dAr)\n\n")
 
 def list_blobs(account, container):
     url = f"https://{account}.blob.core.windows.net/{container}"
