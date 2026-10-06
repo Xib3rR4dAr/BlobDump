@@ -53,6 +53,9 @@ container           Azure Blob container name
 ```text
 $ python blobdump.py mystorageaccount public-files
 
+Author: Muhammad Zeeshan (Xib3rR4dAr)
+
+
 [+] Account   : mystorageaccount
 [+] Container : public-files
 [+] Listing blobs...
